@@ -1,0 +1,8 @@
+pt/ulisboa/tecnico/tuplespaces/client/CommandProcessor.class
+pt/ulisboa/tecnico/tuplespaces/client/util/OrderedDelayer$DelayPair.class
+pt/ulisboa/tecnico/tuplespaces/client/util/OrderedDelayer$DelayPairIterator.class
+pt/ulisboa/tecnico/tuplespaces/client/ClientObserver.class
+pt/ulisboa/tecnico/tuplespaces/client/ClientMain.class
+pt/ulisboa/tecnico/tuplespaces/client/ResponseCollector.class
+pt/ulisboa/tecnico/tuplespaces/client/util/OrderedDelayer.class
+pt/ulisboa/tecnico/tuplespaces/client/grpc/ClientService.class
