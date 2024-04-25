@@ -6,13 +6,6 @@ Distributed Systems Project 2024
 
 **Difficulty level: Bring 'em on!**
 
-
-### Code Identification
-
-In all source files (namely in the *groupId*s of the POMs), replace __GXX__ with your group identifier. The group
-identifier consists of either A or T followed by the group number - always two digits. This change is important for 
-code dependency management, to ensure your code runs using the correct components and not someone else's.
-
 ### Team Members
 
 | Number | Name           | User                              | Email                                          |
